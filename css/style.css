@@ -51,7 +51,7 @@ form {
 
 header {
 	background-color: #F0F8FF;
-	background-image: url("../img/dog-header.png");
+	background-image: url("../img/puppies.jpg");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -76,7 +76,7 @@ header {
 }
 
 .first-section {
-	background-color: #E2D4D4;
+	background-color: #F7F3F3;
 }
 
 
@@ -86,7 +86,7 @@ header {
 }
 
 .first-section ul {
-	background-color: #F6B0C1;
+	background-color: #E2D4D4;
 	margin-top: 25px;
 	padding: 30px 55px;
 	border-radius: 8px;
@@ -139,7 +139,7 @@ header {
 
 
 .third-section {
-	background-color: #DB979F;
+	background-color: #84615C;
 }
 
 .third-section img {
