@@ -16,7 +16,7 @@ color: white;
 }
 
 .modal-content {
-	background-image: url("../img/dog-in-hands.jpg");
+	background-image: url("../img/puppy-in-a-box.jpg");
 	background-repeat: no-repeat;
 	background-position:  center;
 	background-size: cover;
@@ -86,7 +86,7 @@ header {
 }
 
 .first-section ul {
-	background-color: #AF746A;
+	background-color: #F6B0C1;
 	margin-top: 25px;
 	padding: 30px 55px;
 	border-radius: 8px;
@@ -119,7 +119,7 @@ header {
 
 
 .second-section {
-	background-color: #FBFBFB;
+	background-color: #E2D4D4;
 }
 
 .second-section {
@@ -139,7 +139,7 @@ header {
 
 
 .third-section {
-	background-color: white;
+	background-color: #DB979F;
 }
 
 .third-section img {
