@@ -146,6 +146,14 @@ header {
 	margin-top: 35px;
 }
 
+.third-section p {
+	color: #EAE5E2;
+	font-size: 16px;
+	
+.third-section h2 {
+	color: #F5F4F4;
+	font-size: 20px;
+
 @media (min-width: 768px) {
 	.third-section img {
 		margin-top: 0px;
