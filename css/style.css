@@ -53,7 +53,7 @@ header {
 	background-color: #F0F8FF;
 	background-image: url("../img/puppies.jpg");
 	background-size: cover;
-	background-position: bottom bottom;
+	background-position: 50% 60%;
 	background-repeat: no-repeat;
 	padding: 140px 0 100px;	
 	color: white;
